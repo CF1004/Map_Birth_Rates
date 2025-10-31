@@ -10,18 +10,16 @@ Includes dynamic controls to explore **temporal** and **threshold-based** patter
 This dashboard visualizes how birth rates vary across the world and over time.  
 You can:  
 - Use the **Year Slider** (top right) to change the displayed year.  
-- Adjust the **Birth Rate Threshold Slider** to redefine what counts as a “High” vs “Low” birth rate.  
-  - Sliding **left** increases the number of blue countries (higher birth rates).  
-  - Sliding **right** increases the number of green countries (lower birth rates).  
+- Adjust the **Birth Rate Threshold Slider** to define what counts as a “High” vs “Low” birth rate.
 
 ---
 
 ## 🧭 Features  
 
-- **Interactive Year Filter** — explore changes from 1960–2020 (or available range).  
-- **Dynamic Threshold Adjustment** — fine-tune how countries are categorized by birth rate.  
-- **Color-coded Choropleth Map** — instantly see global birth rate distribution.  
-- **Data-driven Labels** — shows birth rate percentages directly on the map.  
+- **Interactive Year Filter**
+- **Dynamic Threshold Adjustment**  
+- **Color-coded Choropleth Map**
+- **Tooltips show Country name and Birth rate** 
 
 ---
 
