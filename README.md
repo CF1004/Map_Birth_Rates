@@ -1,4 +1,4 @@
-# 🌍 Global Birth Rates — Interactive Tableau Dashboard  
+# 🌍 Global Birth Rates — Interactive Tableau Map
 
 An interactive data visualization built in **Tableau**, showing global birth rates by country.  
 Includes dynamic controls to explore **temporal** and **threshold-based** patterns.  
