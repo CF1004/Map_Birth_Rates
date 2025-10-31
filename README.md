@@ -18,8 +18,8 @@ You can:
 
 - **Interactive Year Filter**
 - **Dynamic Threshold Adjustment**  
-- **Color-coded Choropleth Map**
-- **Tooltips show Country name and Birth rate** 
+- **Color-coded World Map (Choropleth)**
+- **Tooltips show country name and birth rate** 
 
 ---
 
