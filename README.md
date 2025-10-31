@@ -32,7 +32,7 @@ You can:
 ## 💾 How to Use  
 
 1. Download the `.twbx` file included in this repository.  
-2. Open it in **Tableau Public** (free version available at [public.tableau.com]([https://public.tableau.com](https://www.tableau.com/community/public))).  
+2. Open it in **Tableau Public** (free version available at [public.tableau.com](https://www.tableau.com/community/public)).  
 3. Interact with the sliders in the top right corner to explore the data yourself.  
 
 ---
