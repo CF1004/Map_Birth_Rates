@@ -45,14 +45,6 @@ You can:
 
 ---
 
-## 🧰 Tools Used  
-
-- **Tableau Public**  
-- **Mapbox / OpenStreetMap** (for the world map layer)  
-- **World Bank Dataset** (Birth rate, crude - per 1,000 people)  
-
----
-
 ## 💬 Summary  
 
 This project demonstrates:  
@@ -64,11 +56,5 @@ This project demonstrates:
 
 ## ⚙️ About the Data  
 
-Data sourced from the **World Bank Open Data** repository.  
-
----
-
-## 🧠 Author  
-
-Created by **[Your Name]** — Data Visualization & SQL Enthusiast.  
+Training Data Set (Cenit College)
 
